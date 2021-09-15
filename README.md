@@ -27,4 +27,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=i-am-chirantan&show_icons=true&locale=en" alt="i-am-chirantan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=i-am-chirantan&" alt="i-am-chirantan" /></p>
